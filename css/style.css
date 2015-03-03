@@ -309,7 +309,7 @@ hr {
 }
 
 #intro.intro {
-	padding:20% 0 0 0;
+	padding:19% 0 0 0;
 }
 
 .intro .slogan {
@@ -347,8 +347,9 @@ hr {
 
 .intro .slogan h4 {
 	color: #fff;
-	font-size: 20px;
+	font-size: 18px;
 	text-shadow: -1px 1px 1px #000;
+	padding-bottom: 0px
 }
 
 
