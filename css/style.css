@@ -7,7 +7,7 @@ body {
     height: 100%;
     font-family: 'Lato',sans-serif;
 	font-weight: 300;
-    color: #666;
+    color: #000;
     background-color: #fff;
 }
 
@@ -74,7 +74,7 @@ a:focus {
 
 .navbar-brand h1{
 	color: #000;
-  font-size: 20px;
+  font-size: 17px;
   line-height: 40px;
 }
 
@@ -258,7 +258,7 @@ hr {
 ============================ */
 
 .home-section {
-    padding-top: 110px;
+    padding-top: 100px;
     padding-bottom: 110px;
 	display:block;
     position:relative;
@@ -358,7 +358,7 @@ hr {
 
 .boxed-grey {
 	background: #f9f9f9;
-	padding: 20px;
+	padding: 15px;
 }
 
 .team h5 {
@@ -370,7 +370,7 @@ hr {
 }
 
 .avatar {
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 .team-social {
@@ -756,11 +756,11 @@ Parallax
 @media (max-width:768px) {
 	
 	.team.boxed-grey {
-		margin-bottom: 30px;
+		margin-bottom: 10px;
 	}
 	
 	.boxed-grey {
-		margin-bottom: 30px;
+		margin-bottom: 10px;
 	}
 
 	
